@@ -1,0 +1,2 @@
+# Python modules (minimal since most logic is bash)
+requests
